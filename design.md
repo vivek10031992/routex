@@ -1,4 +1,4 @@
-1. First understand what we are building
+1. First understand what we are building aa
 Think of the product as:
     Enterprise Employee Transportation Management Platform
 It has 3 major applications:
