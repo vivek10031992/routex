@@ -1,23 +1,27 @@
-10 OCT 2026
-> THREE apps
-> 
-Driver android app
+# RouteX Requirements
+**Date:** 10 OCT 2026
 
-Employee android app
-Admin page of routex
-Onboarding of vehicle
-Onboarding of drivers
-Route queue
-R1
-R2
-Route assignment
-Employee search feature
-Compliance dashboard
-GPS Tracking
-Billing and Finance
-Front end - react
-Backend - Java spring boot
-Database - PostgreSQL
-Cloud - AWS
-LLM - CLAUDE
-> MQ example - redis
+## Apps
+- Driver Android app
+- Employee Android app
+- Admin page of RouteX
+
+## Features
+- Onboarding of vehicle
+- Onboarding of drivers
+- Route queue
+  - R1
+  - R2
+- Route assignment
+- Employee search feature
+- Compliance dashboard
+- GPS Tracking
+- Billing and Finance
+
+## Tech Stack
+- Front end: React
+- Backend: Java Spring Boot
+- Database: PostgreSQL
+- Cloud: AWS
+- LLM: Claude
+- MQ example: Redis
